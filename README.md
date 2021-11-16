@@ -9,5 +9,5 @@ Download here: [SMMS_macOS.dmg](https://github.com/sb-sb/smms-macos/releases/dow
 
 <img src="https://github.com/sb-sb/smms-macos/blob/master/Images/Image_0.png" width="590.1" height="420">
 <img src="https://github.com/sb-sb/smms-macos/blob/master/Images/Image_1.png" width="590.1" height="420">
-<img src="https://github.com/sb-sb/smms-macos/blob/master/Images/Image_2.png" width="590.1" height="420">
+<img src="https://github.com/sb-sb/smms-macos/blob/master/Images/Image_4.png" width="590.1" height="420">
 <img src="https://github.com/sb-sb/smms-macos/blob/master/Images/Image_3.png" width="590.1" height="420">
