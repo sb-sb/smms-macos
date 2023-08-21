@@ -7,6 +7,6 @@ macOS Releases for [SM.MS](https://sm.ms/)
 Download here: [SMMS_macOS.dmg](https://github.com/sb-sb/smms-macos/releases)(macOS 12.0+)
 
 
-<img src="https://github.com/sb-sb/smms-macos/blob/master/Images/Image_0.png" width="678.64" height="420">
-<img src="https://github.com/sb-sb/smms-macos/blob/master/Images/Image_1.png" width="678.64" height="420">
-<img src="https://github.com/sb-sb/smms-macos/blob/master/Images/Image_2.png" width="678.64" height="420">
+<img src="https://github.com/sb-sb/smms-macos/blob/master/Images/Image_0.png" width="678" height="420">
+<img src="https://github.com/sb-sb/smms-macos/blob/master/Images/Image_1.png" width="678" height="420">
+<img src="https://github.com/sb-sb/smms-macos/blob/master/Images/Image_2.png" width="678" height="420">
